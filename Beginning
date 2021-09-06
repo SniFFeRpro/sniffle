@@ -1,0 +1,83 @@
+html>
+
+    <title>Gamer</title>
+
+    <head>
+
+        <h1><center><font face="borg9"size="60"color="red">SniFFeR</font></center></h1>
+
+        <center><img src=""width="100"height="100"border="1" alt="PHOTO"/></center>
+
+        <h2><center><font face="algerian"size="6"color="blue">YouTuber</font></center></h2>
+
+        <!--this can be viewed in the HTML part of a document-->
+
+        <a href="https://www.facebook.com/profile.php?id=100065584789660"><b><big><center><font face="times new roman"size="6">visit our site</font></center></big></b></a>
+
+        <body style="background-color:#7FFFD4"><br><em>Hi i'm mohammad rabbi.my father name is nazrul howlader.And my mother name is taslima begum.</br>And i also have sister.She lives in a arubic country.one words to say she is a foraigner.ok thats all!</em>
+
+        </br></body>
+
+        <dl><menu>
+
+            <dt><i><li type="disc">do you feel now?</li></i></dt>
+
+            <dt><i>2=What's your name?</i></dt>
+
+            <dd><i>1=What you want?</i></dd>
+
+            <dd><i>2=How can i help you?</i></dd>
+
+        </dl></menu>
+
+        <form action="rabiul3369@gmail.com">
+
+            <table border="0" cellspacing="0" cellpadding="2"><tr><td
+
+            bgcolor="#3498DB"></td><td bgcolor="#3498DB" valign="Middle">
+
+        Name:<input type="n=Name"value="Type Your Name Here"size="16"style="color:#D0D3D4;font-family:verdana;font-weight:bold;font-size:12px;background-color:#2F4F4F;"><br>
+
+        <br>Addres:<input type="Address"value="Exa:-amar sha para,Bandar,Chittagong"size="40"style="color:#D0D3D4;font-family:verdana;font-weight:bold;font-size:12px;background-color:#2F4F4F;"><br>
+
+        <br>Email: <input type="Email"value="Exa:-rabiul3369@gmail.com"size="22"style="color:#D0D3D4;font-family:verdana;font-weight:bold;font-size:12px;background-color:#2F4F4F;"></br>
+
+        <br><center><input type="SUBMIT"></br></center></td></tr></table></form>
+
+        <form action="rabiul3369@gmail.com">Select an Option:<br><select>
+
+            <option selected>Option 1</option>
+
+            <option selected>Option 2</option>
+
+            <option selected>Option 3</option>
+
+            <option selected>Option 4</option>
+
+            <option selected>Option 5</option>
+
+        </select>
+
+        <input type="radio"name="Option">Option 1
+
+        <input type="radio"name="Option"checked>Option 2
+
+    <input type="radio"name="Option">Option 3<br>
+
+            <textarea wrap="virtual"name="Comments"rows="10"cols="43"maxlength="1000"style="font-family:verdana;color:#000000;font-weight:bold;background-color:#6495ED;"></textarea><br>
+
+            <input type="Submit"value="Submit">
+
+            <input type="Reset"value="Clear">
+
+        </form>
+
+        <link rel="stylesheet" type="text/css"value="youtube.com"href="style.css"/>
+
+        <p align="right"><embed src="yourfile.mid"width="100"height="60"></p><br>
+
+        <center><marquee bgcolor="#cccccc"loop="-1"scrollamount="2"width="500">This channle make entertainmen video for public and it's would be continue,thanks for watching </marquee></center>
+
+        </head>
+
+</html>
